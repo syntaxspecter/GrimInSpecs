@@ -10,7 +10,7 @@ My Name is Saurabh (Alias @GrimInside : use this handle to find me on social pla
 - 😄 Fun fact: 2+1 = 11 
 
 <br>
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20rem> </h2>
+<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2%> </h2>
 <div style="display:flex">
   <img  src ='https://img.shields.io/badge/Python-ED8F22?style=for-the-badge&logo=python&logoColor=white'>
   <img  src ='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
@@ -41,7 +41,7 @@ My Name is Saurabh (Alias @GrimInside : use this handle to find me on social pla
  </div>
  
 
- <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 20rem ></h2>
+ <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 2% ></h2>
  
  | ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=griminside&show_icons=true&theme=dark) | ![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griminside&theme=dark) |
 | --- | --- |
