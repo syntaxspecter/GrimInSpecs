@@ -26,17 +26,15 @@ My Name is Saurabh (Alias @GrimInside : use this handle to find me on social pla
   <img  src ='https://img.shields.io/badge/Node JS-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Express JS-404D59?style=for-the-badge&logo=express&logoColor=white'>
   <img  src ='https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-  <img  src ='https://img.shields.io/badge/MySQL DB-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/MySQL DB-323330?style=for-the-badge&logo=mysql&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Mongo DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Azure cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Google cloud-0089D6?style=for-the-badge&logo=google-cloud&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Firebase-ED7722?style=for-the-badge&logo=firebase&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Git-1572B6?style=for-the-badge&logo=git&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F87156'>
   <img  src ='https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Postman-ED7722?style=for-the-badge&logo=postman&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Firebase-ED7722?style=for-the-badge&logo=firebase&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Git-1572B6?style=for-the-badge&logo=git&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/Firebase-1572B6?style=for-the-badge&logo=firebase&logoColor=F7DF1E'>
   <img  src ='https://img.shields.io/badge/bugcrowd-F87156?style=for-the-badge&logo=bugcrowd&logoColor=white'>
   
   
