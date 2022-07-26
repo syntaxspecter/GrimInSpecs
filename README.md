@@ -23,7 +23,7 @@ My Name is Saurabh (Alias @GrimInside : use this handle to find me on social pla
  
  
  <br>
-<h2> Tech Stack : Front-End  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2%> </h2>
+<h2> Tech Stack : Front-End  <img src = "https://acegif.com/wp-content/uploads/loading-42.gif" width = 3%> </h2>
 <div style="display:flex">
   <img  src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img  src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
@@ -37,7 +37,7 @@ My Name is Saurabh (Alias @GrimInside : use this handle to find me on social pla
  
  
   <br>
-<h2> Tech Stack : Back-End / Database  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2%> </h2>
+<h2> Tech Stack : Back-End / Database  <img src = "https://www.successsensation.com/wp-content/uploads/2021/02/b1.3.gif" width = 3%> </h2>
 <div style="display:flex">
   
   <img  src ='https://img.shields.io/badge/Node JS-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
@@ -53,7 +53,7 @@ My Name is Saurabh (Alias @GrimInside : use this handle to find me on social pla
  
  
   <br>
-<h2> Hosting / Cloud / Operations <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2%> </h2>
+<h2> Hosting / Cloud / Operations <img src = "ezgif.com-gif-maker (4).gif" width = 3%> </h2>
 <div style="display:flex">
   
   <img  src ='https://img.shields.io/badge/Azure cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white'>
