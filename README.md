@@ -3,8 +3,6 @@
 
 My Name is Saurabh (<b>Alias Name : </b>@GrimInside<img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms. 
 
-- 🔭 I’m currently working on the mentioned TechStack.
-- 🌱 I’m always learning something new.
 - 💬 Ask me about Web Pentesting , FullStack Development , Networking.
 - 📫 You can reach me on any social media platform by using @griminside
 - 😄 Fun fact: 2+1 = 11 
