@@ -12,9 +12,7 @@ My Name is Saurabh (<b>Alias Name : </b>@GrimInside<img src = "https://static.wi
 <div style="display:flex">
   <img  src ='https://img.shields.io/badge/Python-ED8F22?style=for-the-badge&logo=python&logoColor=white'>
   <img  src ='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=coffeescript&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Django-4EA94B?style=for-the-badge&logo=django&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/.Net core-8F29E3?style=for-the-badge&logo=asp&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=coffeescript&logoColor=whit
   
  </div>
  
@@ -35,7 +33,9 @@ My Name is Saurabh (<b>Alias Name : </b>@GrimInside<img src = "https://static.wi
 <h2>Back-End / Database  <img src = "https://www.successsensation.com/wp-content/uploads/2021/02/b1.3.gif" width = 5% align = "center"> </h2>
 <div style="display:flex">
   
-  <img  src ='https://img.shields.io/badge/Node JS-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+                                                                                                           e'>
+  <img  src ='https://img.shields.io/badge/Django-4EA94B?style=for-the-badge&logo=django&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/.Net core-8F29E3?style=for-the-badge&logo=asp&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Express JS-404D59?style=for-the-badge&logo=express&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Mongo DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
   <img  src ='https://img.shields.io/badge/MySQL DB-404D59?style=for-the-badge&logo=mysql&logoColor=white'>
