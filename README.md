@@ -1,7 +1,7 @@
 # Hi Humans
 
 
-My Name is Saurabh (<b>Alias Name : </b>@GrimInside<img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms. 
+My Name is Saurabh (<b>Alias Name : </b>@GrimInSpecs<img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms. 
 
 - 💬 Ask me about Web Pentesting , FullStack Development , Networking.
 - 📫 You can reach me on any social media platform by using @griminside
