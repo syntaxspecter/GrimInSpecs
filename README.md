@@ -3,8 +3,9 @@
 
 My Name is Saurabh (<b>Alias Name : </b>@GrimInSpecs<img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms. 
 
-- 💬 Ask me about Web Pentesting , FullStack Development , Networking.
-- 📫 You can reach me on any social media platform by using @griminspecs
+- 💬 Ask me about Web Pentesting, Cloud technologies, FullStack Development, Networking.
+- 📫 You can reach me on any social media platform by using " @griminspecs ".
+- 🍀 Currently learning Multi-cloud and DevOps.
 - 😄 Fun fact: 2+1 = 11 
 
 <br>
@@ -49,10 +50,12 @@ My Name is Saurabh (<b>Alias Name : </b>@GrimInSpecs<img src = "https://static.w
 <h2> Cloud / Operations <img src = "ezgif.com-gif-maker (4).gif" width = 5% align = "center"> </h2>
 <div style="display:flex">
   
-  <img  src ='https://img.shields.io/badge/Azure cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Google cloud-ED7755?style=for-the-badge&logo=google-cloud&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F87156'>
-  <img  src ='https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white'>
+  <img src ='https://img.shields.io/badge/Azure cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white'>
+  <img src ='https://img.shields.io/badge/Google cloud-ED7755?style=for-the-badge&logo=google-cloud&logoColor=white'>  
+  <img src ='https://img.shields.io/badge/Kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/Jenkins-404D59?style=for-the-badge&logo=jenkins&logoColor=red'>
+  <img src ='https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F87156'>
+  <img src ='https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white'>
  </div>
  
   <br>
