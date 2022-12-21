@@ -9,29 +9,25 @@ My Name is Saurabh (<b>Alias Name : </b> <a href="https://bio.link/griminspecs">
 - 😄 Fun fact: 2+1 = 11 
 
 <br>
-<h2> Programming Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 4% align = "center"> </h2>
+<h2> Tech Stack : Front-End / Programming Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 4% align = "center"> </h2>
 <div style="display:flex">
   <img  src ='https://img.shields.io/badge/Python-ED8F22?style=for-the-badge&logo=python&logoColor=white'>
   <img  src ='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=coffeescript&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/Vanilla JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+  <img  src ='https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+  <img  src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
   
  </div>
  
  
  <br>
-<h2> Tech Stack : Front-End  <img src = "https://acegif.com/wp-content/uploads/loading-42.gif" width = 5% align = "center"> </h2>
-<div style="display:flex">
-  <img  src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Vanilla JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-  <img  src ='https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-  
-  
- </div>
+
  
  
   <br>
-<h2>Back-End / Database  <img src = "https://www.successsensation.com/wp-content/uploads/2021/02/b1.3.gif" width = 5% align = "center"> </h2>
+<h2>Tech Stack : Back-End / Database  <img src = "https://www.successsensation.com/wp-content/uploads/2021/02/b1.3.gif" width = 5% align = "center"> </h2>
 <div style="display:flex">
   
   <img  src ='https://img.shields.io/badge/Django-4EA94B?style=for-the-badge&logo=django&logoColor=white'>
