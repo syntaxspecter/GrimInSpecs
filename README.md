@@ -22,9 +22,6 @@ My Name is Saurabh (<b>Alias Name : </b> <a href="https://bio.link/griminspecs">
  </div>
  
  
- <br>
-
- 
  
   <br>
 <h2>Tech Stack : Back-End / Database  <img src = "https://www.successsensation.com/wp-content/uploads/2021/02/b1.3.gif" width = 5% align = "center"> </h2>
