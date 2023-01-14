@@ -1,14 +1,11 @@
 # Hi Humans
 
 
-My Name is Saurabh (<b>Alias Name : </b> <a href="https://bio.link/griminspecs">GrimInSpecs</a> <img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms. 
-
-- 💬 Ask me about Web Pentesting, Cloud technologies, FullStack Development, Networking.
-- 📫 You can reach me on any social media platform by using " @griminspecs ".
-- 🍀 Currently learning Multi-cloud and DevOps.
-- 😄 Fun fact: 2+1 = 11 
-
+My Name is Saurabh (<b>Alias : </b> <a href="https://bio.link/griminspecs">GrimInSpecs</a><img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms like linkedin,twitter etc.
 <br>
+💬 Ask me about Web Pentesting, Cloud technologies, FullStack Development, Networking.
+<br>
+
 <h2> Tech Stack : Front-End / Programming Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 4% align = "center"> </h2>
 <div style="display:flex">
   <img  src ='https://img.shields.io/badge/Python-ED8F22?style=for-the-badge&logo=python&logoColor=white'>
