@@ -21,9 +21,8 @@ My Name is Saurabh (<b>Alias: </b> <a href="https://bio.link/griminspecs">GrimIn
 <div style="display:flex">
   
   <img  src ='https://img.shields.io/badge/Django-4EA94B?style=for-the-badge&logo=django&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Express JS-404D59?style=for-the-badge&logo=express&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Mongo DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
   <img  src ='https://img.shields.io/badge/MySQL DB-404D59?style=for-the-badge&logo=mysql&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/Mongo DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
   <img  src ='https://img.shields.io/badge/Postman-ED7722?style=for-the-badge&logo=postman&logoColor=white'>
   
  </div>
