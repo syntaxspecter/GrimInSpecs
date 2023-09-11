@@ -46,5 +46,5 @@ My Name is Saurabh (<b>Alias: </b> <a href="https://bio.link/griminspecs">GrimIn
 
  <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 2% ></h2>
  
- | ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=griminspecs&theme=dark) | ![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griminspecs&theme=dark) |
-| --- | --- |
+![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=griminspecs&theme=dark) 
+
