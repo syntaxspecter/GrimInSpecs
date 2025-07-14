@@ -1,7 +1,7 @@
 # Hi Humans
 
 
-My Name is Saurabh (<b>Alias: </b> <a href="https://bio.link/griminspecs">GrimInSpecs</a><img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms like LinkedIn, Twitter etc.
+My Name is Saurabh (<b>Alias: </b> <a href="https://bio.link/syntaxspecter">SyntaxSpecter</a><img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms like LinkedIn, Twitter etc.
 <br>💬 Talks about Web Pentesting, Cloud technologies, FullStack Development, and Networking.
 <br>
 
@@ -46,5 +46,5 @@ My Name is Saurabh (<b>Alias: </b> <a href="https://bio.link/griminspecs">GrimIn
 
  <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 2% ></h2>
  
-![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=griminspecs&theme=dark) 
+![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=syntaxspecter&theme=dark) 
 
